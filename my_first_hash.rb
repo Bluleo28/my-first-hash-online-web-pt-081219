@@ -30,5 +30,4 @@ def adding
   shipping_manifest
 
   hash = {"key1" => "value1"}
-  end
 end
