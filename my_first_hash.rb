@@ -1,5 +1,5 @@
 def my_first_hash
-<<<<<<< HEAD
+
   hash = {"dog" => "Pluto", "cat" => "Maru"}
 end
 def shipping_manifest
@@ -28,8 +28,7 @@ def adding
   shipping_manifest["gun powder"] = 4
 
   shipping_manifest
-end
-=======
+
   hash = {"key1" => "value1"}
 end
 
