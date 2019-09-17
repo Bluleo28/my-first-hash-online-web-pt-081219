@@ -44,5 +44,4 @@ def retrieval
 def adding
   shipping_manifest = {"oil paintings" =>3, "porcelain vases" =>2, "whale bone corsets" =>5}
   shipping_manifest
-  end
 end
