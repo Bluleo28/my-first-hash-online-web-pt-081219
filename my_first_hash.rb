@@ -1,4 +1,4 @@
-def my_first_hash
+def my_hash
 
   hash = {"dog" => "Pluto", "cat" => "Maru"}
 end
